@@ -1,5 +1,5 @@
 :root {
-  --primary: #f111f1;
+  --primary: #0f172a;
   --bg: #fafafa;
 }
 
@@ -91,7 +91,7 @@ body {
   min-height: 100vh;
   display: flex;
   align-items: center;
-  background-image: url("../img/heder-bg 1.jpg");
+  background-image: url("../img/gambar1.jpeg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -125,7 +125,7 @@ body {
 }
 
 .hero .content h1 span {
-  color: var(--primary);
+  color: #2563eb;
 }
 
 .hero .content p {
@@ -142,7 +142,7 @@ body {
   padding: 1rem 3rem;
   font-size: 1.4rem;
   color: #fff;
-  background-color: #f111f1;
+  background-color: #2563eb;
 }
 
 /* About Section */
